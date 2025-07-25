@@ -1,0 +1,17 @@
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\tmp.exe
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\tmp.deps.json
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\tmp.runtimeconfig.json
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\tmp.dll
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\tmp.pdb
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.AssemblyInfoInputs.cache
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.AssemblyInfo.cs
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.csproj.CoreCompileInputs.cache
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.dll
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\refint\tmp.dll
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.pdb
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.genruntimeconfig.cache
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\ref\tmp.dll
+C:\Users\fmc_rafaelc\tmp\bin\Debug\net9.0\SuperSimpleTcp.dll
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.csproj.AssemblyReference.cache
+C:\Users\fmc_rafaelc\tmp\obj\Debug\net9.0\tmp.csproj.Up2Date

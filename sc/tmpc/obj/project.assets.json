@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "SuperSimpleTcp/3.0.17": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/SuperSimpleTcp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/SuperSimpleTcp.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperSimpleTcp/3.0.17": {
+      "sha512": "gW2laxk0w7ypxVsMmLwGwfzaVWPgqDMe5OpVdatWcqLLagJ4noDwBYF7JsQ6A0mwMGOT6YRGO/lUADqJKgQJrg==",
+      "type": "package",
+      "path": "supersimpletcp/3.0.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "icon.png",
+        "lib/net461/SuperSimpleTcp.dll",
+        "lib/net461/SuperSimpleTcp.xml",
+        "lib/net462/SuperSimpleTcp.dll",
+        "lib/net462/SuperSimpleTcp.xml",
+        "lib/net48/SuperSimpleTcp.dll",
+        "lib/net48/SuperSimpleTcp.xml",
+        "lib/net6.0/SuperSimpleTcp.dll",
+        "lib/net6.0/SuperSimpleTcp.xml",
+        "lib/net8.0/SuperSimpleTcp.dll",
+        "lib/net8.0/SuperSimpleTcp.xml",
+        "lib/netstandard2.1/SuperSimpleTcp.dll",
+        "lib/netstandard2.1/SuperSimpleTcp.xml",
+        "supersimpletcp.3.0.17.nupkg.sha512",
+        "supersimpletcp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "SuperSimpleTcp >= 3.0.17"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fmc_rafaelc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fmc_rafaelc\\tmpc\\tmp.csproj",
+      "projectName": "tmp",
+      "projectPath": "C:\\Users\\fmc_rafaelc\\tmpc\\tmp.csproj",
+      "packagesPath": "C:\\Users\\fmc_rafaelc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fmc_rafaelc\\tmpc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\fmc_rafaelc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "SuperSimpleTcp": {
+            "target": "Package",
+            "version": "[3.0.17, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

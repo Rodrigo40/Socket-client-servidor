@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNmgnjiXXlc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fmc_rafaelc\\tmpc\\tmp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fmc_rafaelc\\.nuget\\packages\\supersimpletcp\\3.0.17\\supersimpletcp.3.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
